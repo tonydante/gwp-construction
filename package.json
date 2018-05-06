@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/tonydante/gwp-construction/issues"
   },
-  "homepage": "https://github.com/tonydante/gwp-construction#readme"
+  "homepage": "https://github.com/tonydante/gwp-construction#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3"
+  }
 }
