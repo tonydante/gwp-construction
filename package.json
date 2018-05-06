@@ -1,0 +1,19 @@
+{
+  "name": "gwp-construction",
+  "version": "1.0.0",
+  "description": "this is a construstion static website ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonydante/gwp-construction.git"
+  },
+  "author": "tonydante9",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonydante/gwp-construction/issues"
+  },
+  "homepage": "https://github.com/tonydante/gwp-construction#readme"
+}
